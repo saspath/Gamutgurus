@@ -8,3 +8,7 @@ its all good now
 now its all added to github repository
 
 few changes made to test git add , git commit
+
+now its for add and commit
+
+now add and commit at once
