@@ -3,7 +3,7 @@ hello World good morning
 appended new line character
 ubuntu installation did go fine
 but i had to follow the recorded video session of nageswara rao sir class
-its all good now 
+its all good 100
 
 now its all added to github repository
 
