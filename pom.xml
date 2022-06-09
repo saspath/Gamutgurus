@@ -6,5 +6,5 @@
 
 
 <dependencies>
-	<junit>2.0</junit>
+	<nunit>1.0</nunit>
 </dependencies>
