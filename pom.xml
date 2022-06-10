@@ -7,4 +7,5 @@
 
 <dependencies>
 	<nunit>1.0</nunit>
+	<nunit>2.0</nunit>
 </dependencies>
