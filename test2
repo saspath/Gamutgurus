@@ -6,4 +6,8 @@ testing amend
 
 testing amend final
 
+testing branch
+
 created hotfix branch
+
+making changes after hotfix is moved to MAIN branch
